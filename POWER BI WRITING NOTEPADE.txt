@@ -1,0 +1,19 @@
+
+                                                            PROPERTY TYPE
+
+
+(9) FIND HOW  MANY LISTINGS PER PROPERTY TYPE.
+    A  count of listings per property type  with visual play of bar  chart of bar chart
+ 
+
+(10) FIND HOW MANY LISTING PER  ROOM TYPE  : A count of listing per room 
+        type  through pie chart which display  information as 1342 rooms 
+
+(11) FIND   HOW MANY LISTING PER BEDROOM TYPE :
+     A  count of listing per bedroom type using the visual  pie chart 
+     which displayed  4 bedroom type .
+
+
+(12) FIND HOW MANY ACCOMMODATION PER PROPERTY TYPE:	
+     A count of  property type and  accommodation, using visual table that present the 
+     accommodation 3321
